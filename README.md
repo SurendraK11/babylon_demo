@@ -2,6 +2,7 @@
 
 Screen1
 Posts screen shows posts per user in sections (section header is user name)
+
 Screen2
 Post Details screen shows author (user name), title (selected post) and comments for selected post 
 
